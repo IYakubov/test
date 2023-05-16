@@ -1,0 +1,293 @@
+body{
+	margin: 10px;
+
+}
+
+.wallpaper{
+	width: 100%;
+
+}
+
+.head-text{
+	position: absolute;
+width: 746px;
+height: 115px;
+left: calc(50% - 746px/2 - 172px);
+top: 81px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 100%;
+
+display: flex;
+align-items: center;
+
+color: #0C0C5C;
+}
+
+.head-little{
+	position: absolute;
+width: 627px;
+height: 33px;
+left: calc(50% - 627px/2 - 226.5px);
+top: 45px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 100%;
+/* or 26px */
+
+display: flex;
+align-items: center;
+
+/* Серый */
+
+color: #5D5D5E;
+}
+
+.box_1{
+position: absolute;
+width: 360px;
+height: 100px;
+left: 140px;
+top: 730px;
+background: #0C0C5C;
+box-shadow: 0px 0px 40px rgba(144, 163, 173, 0.4);
+border-radius: 40px;
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+color: #FFFFFF;
+
+}
+
+
+.box_2{
+
+position: absolute;
+width: 360px;
+height: 100px;
+left: 540px;
+top: 730px;
+background: #0C0C5C;
+box-shadow: 0px 0px 40px rgba(144, 163, 173, 0.4);
+border-radius: 40px;
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+color: #FFFFFF;
+
+}
+
+.box_3{
+	position: absolute;
+width: 360px;
+height: 100px;
+left: 940px;
+top: 730px;
+background: #0C0C5C;
+box-shadow: 0px 0px 40px rgba(144, 163, 173, 0.4);
+border-radius: 40px;
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+color: #FFFFFF;
+
+}
+
+.general{
+	  display: flex;
+  flex-direction: row;
+}
+.lol.general{
+	flex: 50%;
+}
+
+.headers{
+		position: absolute;
+width: 746px;
+height: 115px;
+	width: 746px;
+height: 115px;
+left: calc(50% - 746px/2 - 172px);
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 100%;
+
+display: flex;
+align-items: center;
+
+color: #0C0C5C;
+}
+
+.headers_text{
+	position: absolute;
+	left: 220px;
+    top: 1017px;
+
+	width: 540px;
+height: 90px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+
+
+}
+
+.headers_text_2{
+	position: absolute;
+	left: 220px;
+    top: 1117px;
+
+	width: 540px;
+height: 90px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+
+
+}
+
+.headers_text_3{
+	position: absolute;
+	left: 220px;
+    top: 1217px;
+
+	width: 540px;
+height: 90px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+
+
+}
+.heads{
+	color: #5D5D5E;
+}
+
+.codes{
+	position: absolute;
+width: 35%;
+
+left: 782px;
+top: 1080px;
+
+}
+
+.headers_2{
+position: absolute;
+width: 1160px;
+height: 48px;
+left: 220px;
+top: 1361px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 120%;
+/* identical to box height, or 48px */
+
+
+/* Тёмно-синий */
+
+color: #0C0C5C;
+}
+
+.veshenki{
+	position: absolute;
+width: 50%;
+left: 152px;
+top: 1465px;
+}
+.veshenki-text{
+	position: absolute;
+width: 488px;
+height: 126px;
+left: 429px;
+top: 1484px;
+
+font-family: 'Caveat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+/* or 60px */
+
+display: flex;
+align-items: center;
+
+/* Серый */
+
+color: #5D5D5E;
+
+}
+.veshenka{
+position: absolute;
+top: 1484px;
+left: 80px;
+display: flex;
+align-items: center;
+}
+
+
+.headers_3{
+	position: absolute;
+width: 885px;
+height: 72px;
+left: calc(50% - 885px/2 - 137.5px);
+top: 2621px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 120%;
+/* identical to box height, or 72px */
+
+display: flex;
+align-items: center;
+
+/* Тёмно-синий */
+
+color: #0C0C5C;
+}
+
+.glyukan{
+	position: absolute;
+width: 1160px;
+height: 194px;
+left: calc(50% - 885px/2 - 137.5px);
+top: 2720px;
+
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+
+
+color: #5D5D5E;
+}
